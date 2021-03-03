@@ -130,7 +130,7 @@ class _ExplorePageState extends State<ExplorePage>
                                           width: 10,
                                         ),
                                         Text(
-                                          "Recently Active",
+                                          "Yakın Zamanda Aktif",
                                           style: TextStyle(
                                             color: white,
                                             fontSize: 16,

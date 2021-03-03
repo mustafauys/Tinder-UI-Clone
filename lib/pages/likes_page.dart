@@ -28,11 +28,11 @@ class _LikesPageState extends State<LikesPage> {
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
               Text(
-                likes_json.length.toString() + " Likes",
+                likes_json.length.toString() + " Beğenilenler",
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
               ),
               Text(
-                "Top Picks",
+                "En Çok Tercih Edilenler",
                 style: TextStyle(
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
@@ -99,7 +99,7 @@ class _LikesPageState extends State<LikesPage> {
                                         width: 5,
                                       ),
                                       Text(
-                                        "Recently Active",
+                                        "Yakın Zamanda Aktif",
                                         style: TextStyle(
                                           color: white,
                                           fontSize: 14,
@@ -124,7 +124,7 @@ class _LikesPageState extends State<LikesPage> {
                                         width: 5,
                                       ),
                                       Text(
-                                        "Offline",
+                                        "Çevrimdışı",
                                         style: TextStyle(
                                           color: white,
                                           fontSize: 14,
@@ -162,7 +162,7 @@ class _LikesPageState extends State<LikesPage> {
                   borderRadius: BorderRadius.circular(30),
                   gradient: LinearGradient(colors: [yellow_one, yellow_two])),
               child: Center(
-                child: Text("SEE WHO LIKES YOU",
+                child: Text("Seni Seçenleri Gör",
                     style: TextStyle(
                         color: white,
                         fontSize: 18,

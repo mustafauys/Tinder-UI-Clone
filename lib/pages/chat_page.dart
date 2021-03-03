@@ -27,7 +27,7 @@ class _ChatPageState extends State<ChatPage> {
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
               Text(
-                "Messages",
+                "Mesajlar",
                 style: TextStyle(
                     fontSize: 18, fontWeight: FontWeight.bold, color: primary),
               ),
@@ -37,7 +37,7 @@ class _ChatPageState extends State<ChatPage> {
                 decoration: BoxDecoration(color: black.withOpacity(0.15)),
               ),
               Text(
-                "Matches",
+                "Konuşulanlar",
                 style: TextStyle(
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
@@ -67,7 +67,7 @@ class _ChatPageState extends State<ChatPage> {
                     Icons.search,
                     color: black.withOpacity(0.5),
                   ),
-                  hintText: "Search 0 Matches"),
+                  hintText: "Eşleşme Ara"),
             ),
           ),
         ),
@@ -83,7 +83,7 @@ class _ChatPageState extends State<ChatPage> {
             Padding(
               padding: const EdgeInsets.only(left: 15),
               child: Text(
-                "New Matches",
+                "Yeni Konuşulanlar",
                 style: TextStyle(
                     fontSize: 15, fontWeight: FontWeight.w500, color: primary),
               ),

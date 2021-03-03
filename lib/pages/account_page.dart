@@ -86,7 +86,7 @@ class _AccountPageState extends State<AccountPage> {
                         height: 10,
                       ),
                       Text(
-                        "SETTINGS",
+                        "AYARLAR",
                         style: TextStyle(
                             fontSize: 12,
                             fontWeight: FontWeight.w600,
@@ -154,7 +154,7 @@ class _AccountPageState extends State<AccountPage> {
                           height: 10,
                         ),
                         Text(
-                          "ADD MEDIA",
+                          "Medya Ekle",
                           style: TextStyle(
                               fontSize: 12,
                               fontWeight: FontWeight.w600,
@@ -189,7 +189,7 @@ class _AccountPageState extends State<AccountPage> {
                         height: 10,
                       ),
                       Text(
-                        "EDIT INFO",
+                        "Bilgi Düzenle",
                         style: TextStyle(
                             fontSize: 12,
                             fontWeight: FontWeight.w600,

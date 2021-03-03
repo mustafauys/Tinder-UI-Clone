@@ -2,61 +2,61 @@
 const List chats_json = [
   {
     "img": "assets/images/girls/img_1.jpeg",
-    "name": "Ayo",
+    "name": "Melis",
     "online": true,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_2.jpeg",
-    "name": "Rondeau",
+    "name": "Azra",
     "online": true,
     "story": false,
   },
   {
     "img": "assets/images/girls/img_3.jpeg",
-    "name": "Valerie",
+    "name": "Gizem",
     "online": true,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_4.jpeg",
-    "name": "Mary",
+    "name": "Nazlı",
     "online": false,
     "story": false,
   },
   {
     "img": "assets/images/girls/img_5.jpeg",
-    "name": "Angie",
+    "name": "Dilara",
     "online": true,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_6.jpeg",
-    "name": "Anne",
+    "name": "Suzan",
     "online": false,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_7.jpeg",
-    "name": "Fineas",
+    "name": "Simge",
     "online": true,
     "story": false,
   },
   {
     "img": "assets/images/girls/img_8.jpeg",
-    "name": "Atikh",
+    "name": "Firdevs",
     "online": true,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_9.jpeg",
-    "name": "Campbell",
+    "name": "Büşra",
     "online": false,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_10.jpeg",
-    "name": "Maya",
+    "name": "Aslı",
     "online": false,
     "story": true,
   },
@@ -66,7 +66,7 @@ const List chats_json = [
 List userMessages = [
   {
     "id": 1,
-    "name": "Ayo",
+    "name": "Melis",
     "img": "assets/images/girls/img_1.jpeg",
     "online": true,
     "story": true,
@@ -74,7 +74,7 @@ List userMessages = [
     "created_at": "1:00 pm"
   },
   {
-    "name": "Rondeau",
+    "name": "Azra",
     "img": "assets/images/girls/img_2.jpeg",
     "online": true,
     "story": false,
@@ -83,7 +83,7 @@ List userMessages = [
   },
   {
     "id": 3,
-    "name": "Valerie",
+    "name": "Gizem",
     "img": "assets/images/girls/img_3.jpeg",
     "online": true,
     "story": true,
@@ -92,7 +92,7 @@ List userMessages = [
   },
   {
     "id": 4,
-    "name": "Anne",
+    "name": "Nazlı",
     "img": "assets/images/girls/img_4.jpeg",
     "online": false,
     "story": false,
@@ -101,7 +101,7 @@ List userMessages = [
   },
   {
     "id": 5,
-    "name": "Fineas",
+    "name": "Dilara",
     "img": "assets/images/girls/img_5.jpeg",
     "online": true,
     "story": false,
@@ -110,7 +110,7 @@ List userMessages = [
   },
   {
     "id": 6,
-    "name": "Maya",
+    "name": "Suzan",
     "img": "assets/images/girls/img_6.jpeg",
     "online": false,
     "story": true,
