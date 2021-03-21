@@ -1,3 +1,7 @@
+# Tinder UI Clone in Flutter
+
+It is a Dating People application created using Flutter. This application is to chat by evaluating the profiles of new people.
+
 # Screens
 
 ![Like Screen](https://user-images.githubusercontent.com/51384613/109890017-8b113a00-7c97-11eb-81f6-ed2cd1e37ee7.jpg)
