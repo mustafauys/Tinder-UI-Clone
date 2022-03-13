@@ -18,7 +18,6 @@ class _ExplorePageState extends State<ExplorePage>
   int itemLength = 0;
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     setState(() {
       itemsTemp = explore_json;
